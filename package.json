@@ -1,0 +1,49 @@
+{
+  "name": "hashicle-from-file",
+  "version": "0.0.0",
+  "description": "Get a files hash",
+  "license": "MIT",
+  "repository": "tobihrbr/hashicle-from-file",
+  "author": {
+    "name": "Tobias Herber",
+    "email": "tobihrbr@gmail.com",
+    "url": "tobihrbr.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "nyc ava",
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "lint": "fyi"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hashicle",
+    "hash",
+    "sha",
+    "md",
+    "shasum",
+    "generate",
+    "md5",
+    "md4",
+    "sha1",
+    "sha256",
+    "sha512",
+    "crypto",
+    "file",
+    "files",
+    "fs"
+  ],
+  "dependencies": {
+    "hashicle": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "coveralls": "^2.13.1",
+    "fyi": "^1.0.1",
+    "nyc": "^10.3.2"
+  }
+}
