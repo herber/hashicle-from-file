@@ -1,4 +1,4 @@
-# hashicle-from-file
+# hashicle-from-file [![Coverage Status](https://coveralls.io/repos/github/tobihrbr/hashicle-from-file/badge.svg?branch=master)](https://coveralls.io/github/tobihrbr/hashicle-from-file?branch=master)
 
 > Generate hashes from files
 
