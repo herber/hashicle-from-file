@@ -1,4 +1,4 @@
-# hashicle-from-file [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi) [![Build Status](https://travis-ci.org/tobihrbr/hashicle-from-file.svg?branch=master)](https://travis-ci.org/tobihrbr/hashicle-from-file) [![Coverage Status](https://coveralls.io/repos/github/tobihrbr/hashicle-from-file/badge.svg?branch=master)](https://coveralls.io/github/tobihrbr/hashicle-from-file?branch=master) 
+# hashicle-from-file [![Codestyle fyi](https://img.shields.io/badge/code%20style-fyi-E91E63.svg)](https://github.com/tobihrbr/fyi) [![Build Status](https://travis-ci.org/herber/hashicle-from-file.svg?branch=master)](https://travis-ci.org/herber/hashicle-from-file) [![Coverage Status](https://coveralls.io/repos/github/tobihrbr/hashicle-from-file/badge.svg?branch=master)](https://coveralls.io/github/tobihrbr/hashicle-from-file?branch=master) 
 
 > Generate hashes from files
 
